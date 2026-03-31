@@ -1,7 +1,7 @@
 # Open Source Shell Scripts
 
-**Student Name:** Ayush Tiwari
-**Registration Number:** 24MEI10025
+**Student Name:** Chandashi Gupta
+**Registration Number:** 24BAI10956
 
 A collection of Linux shell scripts created for practicing open-source concepts, Linux system administration, and Bash scripting. 
 
